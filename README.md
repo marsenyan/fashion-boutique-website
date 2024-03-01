@@ -38,3 +38,7 @@ This project is ready for deployment to a hosting service of your choice. Rememb
 
 - HTML5, CSS3, STYLED-COMPONENTS
 - TypeScript (React)
+- 
+![Home Page](/public/homePage.png)
+![arrivalsPage](/public/arrivalsPage.png)
+![VoucherPage](/public/voucherPage.png)
